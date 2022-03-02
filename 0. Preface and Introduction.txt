@@ -1,0 +1,30 @@
+Preface
+- Khoa học dữ liệu bùng nổ trong các ngành 
+- Và những cuộc phỏng vấn giá trị với các giáo sư đầu ngành về Dstits sẽ giúp bạn thăng tiến và có cảm giác được ngồi xuống nói chuyện với họ, nghe họ kể về câu chuyện của mình
+
+Introduction
+Trong sách có 2 Nhà Dstits tiên phong; DJ Patil và Hilary Mason
+
+Phân chia các cuộc phỏng vấn theo mục đích:
+Cách dấn thân vào ngành khoa học dữ liệu: William Chen, Clare Corthell, Diane Wu
+
+Cách làm việc trong khi là một data scientist để cải thiện chất lượng công việc: Josh Wills, Kunal Punera, Jace Kohlmeier
+
+Khi là một leader, manager bạn sẽ nhận được lời khuyên về thuê nhà khoa học dữ liệu khác, xây dựng mối quan hệ nhóm, làm việc với sản phẩm và kĩ thuật: Riley Newman, John Foreman, Kevin Novak
+
+Là doanh nhân hoặc chủ doanh nghiệp: hiểu tương lai dữ liệu và cơ hội phía trước - tham khảo các cuộc phỏng vấn  Sean Gourley, Jonathan Goldman, Luis Sanchez
+
+Là người chưa biết gì về DS sẽ hiểu lịch sử lĩnh vực từ nhà tiên phong về dữ liệu đầu tiên: DJ Patil, Hilary Mason, Drew Conway, Pete Skomoroch
+
+Qua các cuộc phỏng vấn ta sẽ hiểu:
+- lý lịch cá nhân, thế giới quan, quỹ đạo sự nghiệp, lời khuyên cuộc sống
+- Dữ liệu và nền kinh tế thế giới?
+- Nắm vững lập trình, thống kê, domain knowledge?
+- Chuyển từ một ví trí khác sang data science?
+- Điều gì ngăn cách cản trở dstist - nhà thống kê statistics - software engineer - How to work together?
+- Điều gì khiến bạn quan tâm ở dstist job tại các công ty? (loại dữ liệu, tính chất công việc - bạn sẽ làm gì làm như thế nào)
+- Xây dựng nhóm dstist hiệu quả?
+- Nhà khoa học dữ liệu xuất sắc và tốt khác nhau ở: tư duy, kĩ thuật kĩ năng ?
+- Thử thách trong tương lai trong dscience?
+
+
