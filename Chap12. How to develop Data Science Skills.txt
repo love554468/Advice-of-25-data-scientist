@@ -1,0 +1,114 @@
+George Roumeliotis - Senior Data scientist & Data innovation Leader at Intuit
+
+Từng làm postdoc ở Úc, nghiên cứu vật ý thiên văn, khởi nghiệp, là một doanh nhân. Hiện nay là chuyên gia khoa học dữ liệu - Cuộc phỏng vấn đề cập đến các kĩ năng cứng để trở thành một nhà khoa học dữ liệu toàn diện
+
+Could you start off by telling us little bit about yourself? (1)
+You Were at Intuit before people started calling thếmlves data scientists, right? (2)
+You worked at Intuit before was a lot of hype and discussion about this term data science. As someone who's been in this field for awhile, what are the myths and what are the truths when people talk about bigdata and datascience? (3)
+When you talked about skills required in data science, you talked about three things: classical statistic or machine learning, computer science and business consulting skills. What suggestions would you make to someone looking to build those skills (4)
+You have a very unconventional experience in that you left your postdoctorate position to found companies. Not only did transition from a postdoctorate to a business environment, but you jumped into the deep end and decided to start your own company. What types of thinking did you feel like you benefited from during your experience in academia and what are the things that you felt were hindrances to you when you entrered the business world? (5)
+Intuit is very data-centric and finacial-centric company You didn't start out in a business context, so what framework do you use to evaluate the sucess of potential ideas at Intuit ? (6)
+We've interviewed people who have recently made the transition to data science, but as someone who's seen the growth and development of younger data scientists, what are some of the mistaks often made by younger hires? (7)
+Beyond these three attributes, what does it take to be a successful data scientist, in your opinion? (8)
+How do you influence others without power? (9)
+When you're looking for data scientists, do you feel there is a necessity for having any form of senior academic credentials? A lot of the data scentists we're seeing now have a Ph.D background, but do you think this trend will continue into the future? (10)
+What distinguishes a data scientist from someone who works as a data analyst
+in a traditional business intelligence role, or a statistician with programming
+knowledge? How deep do these distinctions go? (11)
+You were the CTO of the first startup you founded and that seems to suggest
+that in addition to being an excellent physicist, you’re also quite skilled at building
+systems that provided software solutions built off your interests in image processing
+or scheduling. Were those programming skills something you picked up during the
+course of your graduate degree or was that more born out of need?(12)
+Where do you think data science is headed? (13)
+====================================
+(3).(4).(7).(8).(9). (11).(12).(13)
+You worked at Intuit before was a lot of hype and discussion about this term data science. As someone who's been in this field for awhile, what are the myths and what are the truths when people talk about bigdata and datascience? (3)
+When you talked about skills required in data science, you talked about three things: classical statistic or machine learning, computer science and business consulting skills. What suggestions would you make to someone looking to build those skills (4)
+We've interviewed people who have recently made the transition to data science, but as someone who's seen the growth and development of younger data scientists, what are some of the mistaks often made by younger hires? (7)
+Beyond these three attributes, what does it take to be a successful data scientist, in your opinion? (8)
+How do you influence others without power? (9)
+What distinguishes a data scientist from someone who works as a data analyst
+in a traditional business intelligence role, or a statistician with programming
+knowledge? How deep do these distinctions go? (11)
+You were the CTO of the first startup you founded and that seems to suggest
+that in addition to being an excellent physicist, you’re also quite skilled at building
+systems that provided software solutions built off your interests in image processing
+or scheduling. Were those programming skills something you picked up during the
+course of your graduate degree or was that more born out of need?(12)
+Where do you think data science is headed? (13)
+====================================
+Trên đây là các câu hỏi rất hay mình trích chọn ra
+Đi vào từng câu hỏi cụ thể thôi:
+====================================
+You worked at Intuit before was a lot of hype and discussion about this term data science. As someone who's been in this field for awhile, what are the myths and what are the truths when people talk about bigdata and datascience? (3)
+--I consider a good Data Scientist to be like a
+Swiss army knife, competent across all these
+areas, with deep expertise in one or two of
+them--
+ Nhà khoa học dữ liệu sẽ phát triển và cần thiết trong tương lai, kiến thức của họ tổng hoà và đạt trình độ cao ở nhiều lĩnh vực Thống kê, ComputerScience, Domain Knowledge ngoài ra còn nhiều kĩ năng chuyên biệt khác như visualization data, story telling và các kĩ năng mềm khác
+Họ đóng vai trò như người cố vấn cho doanh nghiệp để đưa ra các quyết định ảnh hưởng trực tiếp đến sự phát triển của doanh nghiệp
+Tóm lại nhà khoa học dữ liệu sở hữu bộ kĩ năng không hề tầm thường
+====================================
+When you talked about skills required in data science, you talked about three things: classical statistic or machine learning, computer science and business consulting skills. What suggestions would you make to someone looking to build those skills (4)
+DataBase: SQL, Hadoop
+Programming: R, Python
+Tác giả coi Nhà khoa học dữ liệu giỏi giống như một con Dao của quân đội Thuỵ Sĩ có khả năng vượt qua tất cả lĩnh vực, có chuyên môn sâu về 1 hoặc hai trong số chúng
+Để ưu tiên học thì
+SQL 40%
+Hadoop 30%
+R 15%
+Ngôn ngữ lập trình chính thống (Java, C++) 10%
+Ngôn ngữ kịch bản chính thống (python) 5%
+
+Đoạn sau các kĩ năng kinh doanh và một câu .. không hiểu nghĩa lắm nói về nhà khoa học dữ liệu
+====================================
+We've interviewed people who have recently made the transition to data science, but as someone who's seen the growth and development of younger data scientists, what are some of the mistaks often made by younger hires? (7)
+
+- Không biết tạo mối quan hệ và giao tiếp với đồng nghiệp không có chuyên môn về kĩ thuật, họ thiên về kinh tế chẳng hạn. Bạn cần tạo ra môi trường thoải mái để làm việc và diễn đạt vấn để một cách dễ hiểu. Hãy tạo mối quan hệ tốt đẹp trước khi bạn nhờ đến họ
+
+Hãy hiểu về quy trình doanh nghiệp làm việc. Nhất là đối với nhà khoa học dữ liệu xuất thân từ môi trường học thuật, hướng nội. Quy trình kinh doanh bao gồm con người, hệ thống và các bước liên quan đến hoạt động kinh doanh.
+
+Những nghiên cứu của bạn được áp dụng có thể lấy đi công việc của người khác và bạn phải có lòng thấu cảm và giúp người đó phát triển tới 1 vị trí công việc có giá trị cao hơn. Nghe có vẻ rất có nhiều trách nhiệm đối với nhà khoa học dữ liệu nhưng nếu không nghĩ như vậy ý tưởng của bạn sẽ chẳng bao giờ được thực hiện.
+====================================
+Beyond these three attributes, what does it take to be a successful data scientist, in your opinion? (8)
+
+Nhà khoa học dữ liệu có thể thay đổi thế giới xung quanh họ. Một vấn đề nhàm chán được tối tưu, một chiến dịch hiệu quả nhờ phân tích, các tác vụ quy trình được thay đổi để phù hợp
+
+Quá trình nâng cao hiệu quả của doanh nghiệp có thể đe doạ công việc của ai đó, và điều đó thật tệ
+====================================
+How do you influence others without power? (9)
+
+Hãy chủ động làm việc với những đồng nghệp không thiên về công nghệ bởi vì mọi người muốn làm việc với những người họ biết và thích
+
+Quan trọng phải giảnh được những chiến thắng nhỏ trước khi cố gắng đánh bóng ra khỏi công viên, nó giúp bạn chứng mình rằng mình là một đối tác tin cậy. Phải tạo mối liên hệ giữa các đề xuất của mình và phần dưới cùng nâng cao hiệu quả doanh nghiệp quá trình thực sự có thể được coi là đe doạ công việc của ai đó
+====================================
+What distinguishes a data scientist from someone who works as a data analyst
+in a traditional business intelligence role, or a statistician with programming
+knowledge? How deep do these distinctions go? (11)
+
+Nhà khoa học dữ liệu và nhà phân tích dữ liệu hoặc nhà thống kê học- Vai trò trong giải quyết các quyết định kinh doanh thông minh? Sự khác biệt này đi đến sâu mức nào?
+
+Các nhà thống kê có thể ngập tràn trong các công cụ toán học để suy luận và dự đoán, nhưng
+chỉ điều đó sẽ không khiến họ trở thành Nhà khoa học dữ liệu hiệu quả. Họ cũng cần phải
+hoàn toàn tự chủ trong việc trích xuất và xử lý các tập dữ liệu lớn thường
+được tìm thấy trong các hệ thống cũ và thường là một mớ hỗn độn ồn ào. Họ cần SQL, NoSQL và
+kỹ năng lập trình để làm điều đó. Và ngay cả khi họ có tất cả các kỹ năng lập trình, nhưng
+họ không có kỹ năng tư vấn tuyệt vời, họ sẽ có ảnh hưởng rất hạn chế. tôi nghĩ
+Nhà khoa học dữ liệu là một con vật rất khác với nhà thống kê
+====================================
+You were the CTO of the first startup you founded and that seems to suggest
+that in addition to being an excellent physicist, you’re also quite skilled at building
+systems that provided software solutions built off your interests in image processing
+or scheduling. Were those programming skills something you picked up during the
+course of your graduate degree or was that more born out of need?(12)
+
+Tác giả học được kĩ năng software engineer từ đại học và những kĩ năng ông đều tự build từ sai và sửa chữa sai như kĩ năng làm việc, xây dựng mối quan hệ, xây dựng hệ thống phức tạp, .. Ông còn làm được nhiều hơn thế khi code đỉnh và startup cũng như làm nhà vật lý tài giỏi.
+====================================
+Where do you think data science is headed? (13)
+
+Nhà khoa học dữ liệu đang hướng đến đâu
+
+Tôi nhận xét: tác giả nói đến nhà phát triển sản phẩm giống kiểu AB testing của Amazong làm các nút trên web, điều này hơi không thú vị tôi nghĩ vậy
+
+Nhận xét của tôi:
